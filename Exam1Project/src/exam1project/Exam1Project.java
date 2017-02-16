@@ -21,6 +21,7 @@ public class Exam1Project {
 	// 
 	// TODO EXAM 1 - TAKEHOME
 	// 1. Complete the ArrayStack and LinkedStack classes (all 6 methods)
+    // TODO EXAM 1 - TAKEHOME
         // 2. In this main, write a test for each method AND any exceptions
         // 3. Push all of the changes back to the repository (git push)
         
